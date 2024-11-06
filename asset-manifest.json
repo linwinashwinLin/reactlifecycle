@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactlifecycle/static/css/main.f855e6bc.css",
+    "main.js": "/reactlifecycle/static/js/main.e899ecbf.js",
+    "index.html": "/reactlifecycle/index.html",
+    "main.f855e6bc.css.map": "/reactlifecycle/static/css/main.f855e6bc.css.map",
+    "main.e899ecbf.js.map": "/reactlifecycle/static/js/main.e899ecbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e899ecbf.js"
+  ]
+}
